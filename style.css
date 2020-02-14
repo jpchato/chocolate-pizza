@@ -1,0 +1,68 @@
+/* #head1{
+  display: inline-block;
+  /* float: left; */
+/* } */
+
+/* #head2{
+  float: none;
+} */ 
+
+header img{
+  display: inline-block;
+}
+
+header p{
+display: inline-block;
+}
+header nav{
+  float: right;
+}
+
+
+
+#head2 p:last-child{
+float: right;
+}
+#head3{
+  background-color: aquamarine;
+  height: 20px;
+}
+
+body{
+  float: none;
+  width:901px;
+}
+
+ul{
+  display: inline-block;
+  font-size: x-large;
+}
+
+#foot3{
+  background-color: aquamarine;
+  height: 20px;
+}
+
+#foot1{
+  display: inline-bock;
+}
+
+#foot1 img{
+  display: inline-block;
+}
+
+#foot1 p{
+  display: inline-block;
+  margin-left: 100px;
+  width: 600px;
+  
+}
+
+button{
+  display: inline-block;
+  float: right;
+}
+
+#foot2{
+  text-align: center;
+}
