@@ -8,6 +8,7 @@ display: inline-block;
 
 h1 {
   margin-bottom: 0px;
+  font-family: fantasy;
 }
 header nav{
   float: right;
@@ -76,10 +77,13 @@ ul {
 
 button{
   display: inline-block;
+  background-color: red;
+  border-radius: 100px;
 }
 
 #foot2{
   text-align: center;
+  color: rgba(0, 0, 0, 0.5);
 }
 
 #onimg {
@@ -88,4 +92,13 @@ button{
 
 li {
   margin-left: 100px;
+}
+
+#print {
+  /* color: #000; */
+  color: rgba(0, 0, 0, 0.5)
+}
+
+#fifteen {
+  color: rgba(0, 0, 0, 0.5)
 }
